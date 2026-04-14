@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asfand Khan from Pakistan. I'm a student of BBA but found my love and peace in programming and coding.
+- 👋 Hi, I’m Asfand Khan from Pakistan. I'm a Full Stack Developer with 4 years of Experience.
 - 👀 I’m interested in being a software engineer.
 - 🌱 I’m currently learning different languages including Nodejs, react or angular. My goal is to spread my learning circle towards python and Java.
 - 💞️ I’m looking for your suggestions and advices which bring me more learning and expand my career towards IT.
